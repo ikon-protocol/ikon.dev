@@ -1,0 +1,3 @@
+[submodule "themes/ikonic"]
+	path = themes/ikonic
+	url = git@github.com:ikon-protocol/ikonic-hugo.git

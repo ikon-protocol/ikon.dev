@@ -1,0 +1,4 @@
+baseURL = "https://ikon.dev"
+languageCode = "en-us"
+title = "Ikon"
+theme = "ikonic"
